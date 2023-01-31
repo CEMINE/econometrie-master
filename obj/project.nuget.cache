@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "udtg2ye0+sQpYowRHaey2EM4WfYcIzlk//NdZv+WzyOimMOeSNkSHM6uXph1ol9tnqvQ9sEKwD5k+r32zB5/8Q==",
+  "success": true,
+  "projectFilePath": "D:\\c# apps\\econometrie\\econometrie-master\\econometrie\\econometrie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CC\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

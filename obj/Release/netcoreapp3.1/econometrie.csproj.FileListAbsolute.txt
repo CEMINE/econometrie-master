@@ -1,0 +1,16 @@
+A:\c# apps\econometrie\v2\econometrie-master\econometrie\bin\Release\netcoreapp3.1\econometrie.exe
+A:\c# apps\econometrie\v2\econometrie-master\econometrie\bin\Release\netcoreapp3.1\econometrie.deps.json
+A:\c# apps\econometrie\v2\econometrie-master\econometrie\bin\Release\netcoreapp3.1\econometrie.runtimeconfig.json
+A:\c# apps\econometrie\v2\econometrie-master\econometrie\bin\Release\netcoreapp3.1\econometrie.runtimeconfig.dev.json
+A:\c# apps\econometrie\v2\econometrie-master\econometrie\bin\Release\netcoreapp3.1\econometrie.dll
+A:\c# apps\econometrie\v2\econometrie-master\econometrie\bin\Release\netcoreapp3.1\econometrie.pdb
+A:\c# apps\econometrie\v2\econometrie-master\econometrie\bin\Release\netcoreapp3.1\MathNet.Numerics.dll
+A:\c# apps\econometrie\v2\econometrie-master\econometrie\obj\Release\netcoreapp3.1\econometrie.csproj.AssemblyReference.cache
+A:\c# apps\econometrie\v2\econometrie-master\econometrie\obj\Release\netcoreapp3.1\econometrie.GeneratedMSBuildEditorConfig.editorconfig
+A:\c# apps\econometrie\v2\econometrie-master\econometrie\obj\Release\netcoreapp3.1\econometrie.AssemblyInfoInputs.cache
+A:\c# apps\econometrie\v2\econometrie-master\econometrie\obj\Release\netcoreapp3.1\econometrie.AssemblyInfo.cs
+A:\c# apps\econometrie\v2\econometrie-master\econometrie\obj\Release\netcoreapp3.1\econometrie.csproj.CoreCompileInputs.cache
+A:\c# apps\econometrie\v2\econometrie-master\econometrie\obj\Release\netcoreapp3.1\econometrie.csproj.CopyComplete
+A:\c# apps\econometrie\v2\econometrie-master\econometrie\obj\Release\netcoreapp3.1\econometrie.dll
+A:\c# apps\econometrie\v2\econometrie-master\econometrie\obj\Release\netcoreapp3.1\econometrie.pdb
+A:\c# apps\econometrie\v2\econometrie-master\econometrie\obj\Release\netcoreapp3.1\econometrie.genruntimeconfig.cache
